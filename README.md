@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Twitter 클론 코딩 프로젝트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 React를 사용하여 Twitter의 간단한 클론을 만들기 위한 것입니다. 이 README 파일은 프로젝트를 설명하고 실행하는 방법을 안내합니다.
 
-## Available Scripts
+## 기능
 
-In the project directory, you can run:
+이 Twitter 클론 코딩 프로젝트는 다음과 같은 주요 기능을 포함합니다:
 
-### `npm start`
+- 사용자 등록 및 로그인
+- 트윗 작성, 편집, 삭제
+- 트윗에 대한 좋아요 및 리트윗
+- 팔로우 및 팔로워 관리
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 사용 기술
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+이 프로젝트는 다음 기술 스택을 사용합니다:
 
-### `npm test`
+- React
+- Redux (상태 관리)
+- Firebase (백엔드 및 인증)
+- CSS (스타일링)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 시작하기
 
-### `npm run build`
+1. 이 리포지토리를 클론합니다.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/yourusername/twitter-clone.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Twitter Clone Coding Project
 
-### `npm run eject`
+This project aims to create a simple clone of Twitter using React. This README file provides information about the project and how to run it.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This Twitter clone coding project includes the following key features:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- User registration and login
+- Tweet creation, editing, and deletion
+- Liking and retweeting tweets
+- Following and managing followers
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technologies Used
 
-## Learn More
+This project utilizes the following technology stack:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React
+- Redux (State management)
+- Firebase (Backend and Authentication)
+- CSS (Styling)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Getting Started
 
-### Code Splitting
+1. Clone this repository.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+git clone https://github.com/yourusername/twitter-clone.git
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
